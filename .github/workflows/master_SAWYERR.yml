@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'SAWYERR'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2ed098d460294e838c17025067790bd6 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7149bf7afb92406498b3c4359ae5e03b }}
         package: .
